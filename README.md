@@ -3,6 +3,7 @@
 AI-focused Full-Stack Software Engineer building real-world, production-ready AI systems.
 
 📍 Based in Italy | 🌍 Open to Europe & Remote   
+🪪 EU work authorization  
 🎓 MSc Computer Science | Data Science & Machine Learning  
 🧠 Focus: Applied AI, NLP, ML systems, APIs, AI-powered products
 
