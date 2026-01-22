@@ -1,1 +1,1 @@
-Hi 👋 I'm Vivian Njoki Njuguna
+Hi 👋 I'm Vivian Njuguna
