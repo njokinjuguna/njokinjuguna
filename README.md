@@ -65,6 +65,8 @@ Structured learning and experimentation in:
 ---
 
 ## 📫 Contact
-- LinkedIn: *(add link)*
-- Portfolio: *(optional)*
+- LinkedIn: https://www.linkedin.com/in/vivian-njuguna-njoki91/
+- 📧 Email:: ntikinjuguna@gmail.com
+
+
 
