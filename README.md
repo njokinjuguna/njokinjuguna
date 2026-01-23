@@ -40,7 +40,7 @@ Scalable ML inference API for real estate pricing.
 - Redis + Supabase
 - Dockerized deployment
 
-🔗 Repository: real-estate-price-api
+🔗 Repository: real-estate-price
 
 ---
 
